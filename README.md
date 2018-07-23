@@ -62,7 +62,7 @@ touch myproject/templates/core/index.html
 mkdir -p myproject/static/{css,js,public}
 mkdir -p myproject/static/js/components
 touch myproject/static/css/starter-template.css
-touch myproject/static/app.js
+touch myproject/static/js/app.js
 touch myproject/static/js/components/exemplo.vue
 ```
 
